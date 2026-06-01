@@ -1,8 +1,13 @@
 {
   "keywords": [
-    "데이터",
-    "AI",
-    "기획"
+    "회계",
+    "세무",
+    "재무",
+    "재경",
+    "경영",
+    "Finance",
+    "Tax",
+    "결산"
   ],
   "keyword_match": "any",
   "case_sensitive": false,
