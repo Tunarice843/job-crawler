@@ -1,0 +1,16 @@
+{
+  "keywords": [
+    "데이터",
+    "AI",
+    "기획"
+  ],
+  "keyword_match": "any",
+  "case_sensitive": false,
+  "search_target": "title",
+  "companies": {
+    "samsung": true,
+    "sk": true
+  },
+  "max_pages": 5,
+  "output_path": "docs/data/jobs.json"
+}
