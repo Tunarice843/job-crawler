@@ -28,7 +28,7 @@ function saveState(key, id, on) {
 
 // ---------- 표시 유틸 ----------
 function getCompanyBadgeClass(company) {
-    const map = { 'SK': 'sk', '삼성': 'samsung' };
+    const map = { 'SK': 'sk', '삼성': 'samsung', 'LG': 'lg', '현대차': 'hyundai', '기아차': 'kia' };
     return map[company] || '';
 }
 

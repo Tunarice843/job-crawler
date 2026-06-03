@@ -14,7 +14,10 @@
   "search_target": "title",
   "companies": {
     "samsung": true,
-    "sk": true
+    "sk": true,
+    "lg": true,
+    "hyundai": true,
+    "kia": true
   },
   "max_pages": 5,
   "output_path": "docs/data/jobs.json"

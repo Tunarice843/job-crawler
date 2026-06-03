@@ -351,6 +351,14 @@ body {
     border-left-color: #A50034;
 }
 
+.job-card.hyundai {
+    border-left-color: #002C5F;
+}
+
+.job-card.kia {
+    border-left-color: #05141F;
+}
+
 .job-card-header {
     display: flex;
     justify-content: space-between;

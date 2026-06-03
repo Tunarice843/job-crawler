@@ -22,12 +22,21 @@ except (AttributeError, ValueError):
     pass
 
 from .utils import load_config, load_existing_jobs, save_jobs
-from . import crawler_sk, crawler_samsung
+from . import (
+    crawler_sk,
+    crawler_samsung,
+    crawler_lg,
+    crawler_hyundai,
+    crawler_kia,
+)
 
 # 회사 키 → 크롤 함수 매핑 (새 포털 추가 시 여기에 한 줄 등록)
 CRAWLERS = {
     "sk": crawler_sk.crawl,
     "samsung": crawler_samsung.crawl,
+    "lg": crawler_lg.crawl,
+    "hyundai": crawler_hyundai.crawl,
+    "kia": crawler_kia.crawl,
 }
 
 

@@ -1,9 +1,9 @@
-# 채용공고 모니터링 (삼성 · SK)
+# 채용공고 모니터링 (삼성 · SK · LG · 현대차 · 기아차)
 
 여러 기업 채용 페이지를 매일 자동으로 크롤링하고, **검색어에 맞는 공고만** 한곳에 모아
 아이폰 등 어디서나 웹으로 볼 수 있는 도구입니다.
 
-현재 지원 포털: **삼성, SK** (네이버·카카오·두나무는 추후 추가 예정)
+현재 지원 포털: **삼성, SK, LG, 현대차, 기아차** (네이버·카카오·두나무는 추후 추가 예정)
 
 ## 구조
 
@@ -15,6 +15,9 @@
 │   ├── utils.py                # 설정 로드, 검색어 매칭, 중복제거, 저장
 │   ├── crawler_sk.py           # SK (JSON API)
 │   ├── crawler_samsung.py      # 삼성 (HTML 파싱)
+│   ├── crawler_lg.py           # LG (JSON API, 세션 쿠키)
+│   ├── crawler_hyundai.py      # 현대차 (JSON API)
+│   ├── crawler_kia.py          # 기아차 (JSON API)
 │   └── run.py                  # 실행 진입점
 ├── docs/                       # 대시보드 (GitHub Pages가 이 폴더를 서빙)
 │   ├── index.html
@@ -33,7 +36,10 @@
   "keywords": ["데이터", "AI", "기획"],   // 수집할 검색어. []로 비우면 전체 수집
   "keyword_match": "any",                 // "any"=하나라도 포함 / "all"=모두 포함
   "case_sensitive": false,                // 대소문자 구분 여부
-  "companies": { "samsung": true, "sk": true },  // 끌 회사는 false
+  "companies": {                          // 끌 회사는 false
+    "samsung": true, "sk": true,
+    "lg": true, "hyundai": true, "kia": true
+  },
   "max_pages": 5,                         // 회사별 최대 크롤링 페이지 수
   "output_path": "docs/data/jobs.json"    // 결과 저장 위치 (변경 불필요)
 }
