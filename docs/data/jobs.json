@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-03T15:03:55",
-  "count": 3,
+  "updated_at": "2026-06-04T11:37:31",
+  "count": 4,
   "jobs": [
     {
       "id": "job_3fb3b280403ee6c0",
@@ -9,6 +9,14 @@
       "url": "https://www.skcareers.com/Recruit/Detail/R261218",
       "posted_date": "2026-05-28T00:00:00",
       "end_date": "2026-06-07T23:59:59"
+    },
+    {
+      "id": "job_245b5ba6dc134ae8",
+      "company": "SK",
+      "title": "[SK keyfoundry] SK키파운드리 경영기획 Junior Talent(경력) 채용",
+      "url": "https://www.skcareers.com/Recruit/Detail/R261150",
+      "posted_date": "2026-05-20T00:00:00",
+      "end_date": "2026-06-14T23:59:59"
     },
     {
       "id": "job_9090cc3d7f8f4765",
