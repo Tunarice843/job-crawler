@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-06-04T11:37:31",
-  "count": 4,
+  "updated_at": "2026-06-04T23:31:28",
+  "count": 6,
   "jobs": [
+    {
+      "id": "job_b6bb2908f3611f21",
+      "company": "한화",
+      "title": "[한화생명금융서비스] 세무사",
+      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=18926",
+      "posted_date": "2026-05-29T15:00:00",
+      "end_date": "2026-06-12T15:00:00"
+    },
     {
       "id": "job_3fb3b280403ee6c0",
       "company": "SK",
@@ -9,6 +17,14 @@
       "url": "https://www.skcareers.com/Recruit/Detail/R261218",
       "posted_date": "2026-05-28T00:00:00",
       "end_date": "2026-06-07T23:59:59"
+    },
+    {
+      "id": "job_90a47110bdcc851b",
+      "company": "한화",
+      "title": "[한화시스템/방산] 한화시스템 전략기획실 경영기획 담당 경력사원 채용",
+      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=18878",
+      "posted_date": "2026-05-22T10:00:00",
+      "end_date": "2026-06-07T23:59:00"
     },
     {
       "id": "job_245b5ba6dc134ae8",

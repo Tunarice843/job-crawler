@@ -17,7 +17,8 @@
     "sk": true,
     "lg": true,
     "hyundai": true,
-    "kia": true
+    "kia": true,
+    "hanwha": true
   },
   "max_pages": 5,
   "output_path": "docs/data/jobs.json"

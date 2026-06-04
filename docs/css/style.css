@@ -359,6 +359,10 @@ body {
     border-left-color: #05141F;
 }
 
+.job-card.hanwha {
+    border-left-color: #F37321;
+}
+
 .job-card-header {
     display: flex;
     justify-content: space-between;
@@ -469,6 +473,10 @@ body {
 
 .company-badge.kia {
     background: #05141F;
+}
+
+.company-badge.hanwha {
+    background: #F37321;
 }
 
 .company-badge.posco {

@@ -1,9 +1,9 @@
-# 채용공고 모니터링 (삼성 · SK · LG · 현대차 · 기아차)
+# 채용공고 모니터링 (삼성 · SK · LG · 현대차 · 기아차 · 한화)
 
 여러 기업 채용 페이지를 매일 자동으로 크롤링하고, **검색어에 맞는 공고만** 한곳에 모아
 아이폰 등 어디서나 웹으로 볼 수 있는 도구입니다.
 
-현재 지원 포털: **삼성, SK, LG, 현대차, 기아차** (네이버·카카오·두나무는 추후 추가 예정)
+현재 지원 포털: **삼성, SK, LG, 현대차, 기아차, 한화** (네이버·카카오·두나무는 추후 추가 예정)
 
 ## 구조
 
@@ -18,6 +18,7 @@
 │   ├── crawler_lg.py           # LG (JSON API, 세션 쿠키)
 │   ├── crawler_hyundai.py      # 현대차 (JSON API)
 │   ├── crawler_kia.py          # 기아차 (JSON API)
+│   ├── crawler_hanwha.py       # 한화 (JSON API, rcRecruit/search-rcrt)
 │   └── run.py                  # 실행 진입점
 ├── docs/                       # 대시보드 (GitHub Pages가 이 폴더를 서빙)
 │   ├── index.html

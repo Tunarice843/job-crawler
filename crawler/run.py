@@ -28,6 +28,7 @@ from . import (
     crawler_lg,
     crawler_hyundai,
     crawler_kia,
+    crawler_hanwha,
 )
 
 # 회사 키 → 크롤 함수 매핑 (새 포털 추가 시 여기에 한 줄 등록)
@@ -37,6 +38,7 @@ CRAWLERS = {
     "lg": crawler_lg.crawl,
     "hyundai": crawler_hyundai.crawl,
     "kia": crawler_kia.crawl,
+    "hanwha": crawler_hanwha.crawl,
 }
 
 
