@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-07T10:15:40",
-  "count": 10,
+  "updated_at": "2026-06-08T14:51:42",
+  "count": 11,
   "jobs": [
     {
       "id": "job_0fd5cae3df48aa58",
@@ -73,6 +73,14 @@
       "url": "https://www.skcareers.com/Recruit/Detail/R261054",
       "posted_date": "2026-05-12T00:00:00",
       "end_date": "2026-06-30T23:59:59"
+    },
+    {
+      "id": "job_9afec0e9ed101612",
+      "company": "한화",
+      "title": "[한화세미텍] 재무 담당 채용 (과~차장급, 추가접수中)",
+      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=18750",
+      "posted_date": "2026-04-29T11:00:00",
+      "end_date": "2026-06-30T23:59:00"
     },
     {
       "id": "job_ed62ad19a771d47a",
