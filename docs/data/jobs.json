@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-06-08T14:51:42",
-  "count": 11,
+  "updated_at": "2026-06-09T11:44:53",
+  "count": 12,
   "jobs": [
+    {
+      "id": "job_44341970e6e416fd",
+      "company": "한화",
+      "title": "[한화첨단소재] 원가회계 경력사원 채용(해외주재원 후보)",
+      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=18995",
+      "posted_date": "2026-06-09T10:00:00",
+      "end_date": "2026-06-21T23:50:00"
+    },
     {
       "id": "job_0fd5cae3df48aa58",
       "company": "한화",
