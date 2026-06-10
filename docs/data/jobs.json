@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-06-09T11:44:53",
-  "count": 12,
+  "updated_at": "2026-06-10T12:42:32",
+  "count": 13,
   "jobs": [
+    {
+      "id": "job_cf4d87bd03448730",
+      "company": "LG",
+      "title": "[TW바이오매스에너지]  재경부문 경력사원 모집",
+      "url": "https://careers.lg.com/apply/detail?id=1001810",
+      "posted_date": "2026-06-10T12:42:28",
+      "end_date": "2026-06-19T18:00:00"
+    },
     {
       "id": "job_44341970e6e416fd",
       "company": "한화",
