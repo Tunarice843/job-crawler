@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-06-10T12:42:32",
-  "count": 13,
+  "updated_at": "2026-06-11T13:06:03",
+  "count": 14,
   "jobs": [
+    {
+      "id": "job_2f4593f95b7e5834",
+      "company": "LG",
+      "title": "[LG유플러스] [Consumer부문] 인천소매영업팀 회계/정산 계약직 채용",
+      "url": "https://careers.lg.com/apply/detail?id=1001813",
+      "posted_date": "2026-06-11T13:05:46",
+      "end_date": "2026-06-17T23:00:00"
+    },
     {
       "id": "job_cf4d87bd03448730",
       "company": "LG",
