@@ -1,7 +1,23 @@
 {
-  "updated_at": "2026-06-14T10:54:26",
-  "count": 14,
+  "updated_at": "2026-06-15T18:12:12",
+  "count": 17,
   "jobs": [
+    {
+      "id": "job_5ac58707595c67c4",
+      "company": "SK",
+      "title": "[SK telecom] 회계 및 서무 담당자",
+      "url": "https://www.skcareers.com/Recruit/Detail/R261352",
+      "posted_date": "2026-06-15T00:00:00",
+      "end_date": "2026-06-21T23:59:59"
+    },
+    {
+      "id": "job_b9b6f71e80192fde",
+      "company": "SK",
+      "title": "[SK picglobal] SK피아이씨글로벌 재무/회계 경력사원 채용",
+      "url": "https://www.skcareers.com/Recruit/Detail/R261350",
+      "posted_date": "2026-06-15T00:00:00",
+      "end_date": "2026-07-01T23:59:59"
+    },
     {
       "id": "job_2f4593f95b7e5834",
       "company": "LG",
@@ -17,6 +33,14 @@
       "url": "https://careers.lg.com/apply/detail?id=1001810",
       "posted_date": "2026-06-10T12:42:28",
       "end_date": "2026-06-19T18:00:00"
+    },
+    {
+      "id": "job_6d3f4b9f1acdcd3e",
+      "company": "현대차",
+      "title": "[현대차] GBC 부동산 재무분석 및 지원업무",
+      "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=250",
+      "posted_date": "2026-06-10T00:00:00",
+      "end_date": "2026-06-30T23:59:59"
     },
     {
       "id": "job_44341970e6e416fd",
