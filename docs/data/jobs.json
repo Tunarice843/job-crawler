@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-06-16T18:20:37",
-  "count": 17,
+  "updated_at": "2026-06-17T13:03:19",
+  "count": 18,
   "jobs": [
+    {
+      "id": "job_57378687fab7c5b7",
+      "company": "LG",
+      "title": "[LG유플러스] [Consumer부문] 남부소매영업팀 회계/정산 계약직 채용",
+      "url": "https://careers.lg.com/apply/detail?id=1001841",
+      "posted_date": "2026-06-17T13:03:15",
+      "end_date": "2026-06-23T23:00:00"
+    },
     {
       "id": "job_5ac58707595c67c4",
       "company": "SK",
