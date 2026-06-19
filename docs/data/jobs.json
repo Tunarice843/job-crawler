@@ -1,7 +1,23 @@
 {
-  "updated_at": "2026-06-18T12:33:13",
-  "count": 18,
+  "updated_at": "2026-06-19T13:01:04",
+  "count": 20,
   "jobs": [
+    {
+      "id": "job_3bec493e95a7db41",
+      "company": "한화",
+      "title": "[한화솔루션/전략부문] [재무실] 사무계약직 채용",
+      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19091",
+      "posted_date": "2026-06-19T15:14:00",
+      "end_date": "2026-06-29T12:00:00"
+    },
+    {
+      "id": "job_7d49d2802f7b3004",
+      "company": "SK",
+      "title": "[SK keyfoundry] SK키파운드리 경영/사업전략 대졸 신입 채용",
+      "url": "https://www.skcareers.com/Recruit/Detail/R261403",
+      "posted_date": "2026-06-19T00:00:00",
+      "end_date": "2026-06-28T23:59:59"
+    },
     {
       "id": "job_57378687fab7c5b7",
       "company": "LG",
