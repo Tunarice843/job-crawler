@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-06-21T11:33:56",
-  "count": 20,
+  "updated_at": "2026-06-22T17:58:16",
+  "count": 22,
   "jobs": [
+    {
+      "id": "job_f09de6c93d138536",
+      "company": "SK",
+      "title": "[SK picglobal] SK피아이씨글로벌 회계 경력사원 채용(원가/손익)",
+      "url": "https://www.skcareers.com/Recruit/Detail/R261410",
+      "posted_date": "2026-06-22T00:00:00",
+      "end_date": "2026-07-13T23:59:59"
+    },
     {
       "id": "job_3bec493e95a7db41",
       "company": "한화",
@@ -38,6 +46,14 @@
       "id": "job_b9b6f71e80192fde",
       "company": "SK",
       "title": "[SK picglobal] SK피아이씨글로벌 재무/회계 경력사원 채용",
+      "url": "https://www.skcareers.com/Recruit/Detail/R261350",
+      "posted_date": "2026-06-15T00:00:00",
+      "end_date": "2026-07-01T23:59:59"
+    },
+    {
+      "id": "job_b98855d0d67d934d",
+      "company": "SK",
+      "title": "[SK picglobal] SK피아이씨글로벌 회계 경력사원 채용(세무/재무)",
       "url": "https://www.skcareers.com/Recruit/Detail/R261350",
       "posted_date": "2026-06-15T00:00:00",
       "end_date": "2026-07-01T23:59:59"
