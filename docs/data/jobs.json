@@ -1,7 +1,23 @@
 {
-  "updated_at": "2026-06-22T17:58:16",
-  "count": 22,
+  "updated_at": "2026-06-23T11:43:44",
+  "count": 24,
   "jobs": [
+    {
+      "id": "job_c657f0ce8ccd2a77",
+      "company": "SK",
+      "title": "[SK biopharmaceuticals] 세무(국제조세) 경력 구성원 영입",
+      "url": "https://www.skcareers.com/Recruit/Detail/R261417",
+      "posted_date": "2026-06-23T00:00:00",
+      "end_date": "2026-07-07T23:59:59"
+    },
+    {
+      "id": "job_c4f774e28c143b33",
+      "company": "삼성",
+      "title": "[제일기획] 경력사원 채용(데이터, 스페이스 기획, 경영지원)",
+      "url": "https://www.samsungcareers.com/hr/?no=22542",
+      "posted_date": "2026-06-23T00:00:00",
+      "end_date": "2026-06-29T23:59:59"
+    },
     {
       "id": "job_f09de6c93d138536",
       "company": "SK",
