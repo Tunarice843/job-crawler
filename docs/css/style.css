@@ -363,6 +363,14 @@ body {
     border-left-color: #F37321;
 }
 
+.job-card.naver {
+    border-left-color: #03C75A;
+}
+
+.job-card.kakao {
+    border-left-color: #FEE500;
+}
+
 .job-card-header {
     display: flex;
     justify-content: space-between;
@@ -501,6 +509,15 @@ body {
 
 .company-badge.gs {
     background: #0066B3;
+}
+
+.company-badge.naver {
+    background: #03C75A;
+}
+
+.company-badge.kakao {
+    background: #FEE500;
+    color: #3C1E1E;
 }
 
 .job-link {

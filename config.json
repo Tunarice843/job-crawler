@@ -18,7 +18,9 @@
     "lg": true,
     "hyundai": true,
     "kia": true,
-    "hanwha": true
+    "hanwha": true,
+    "naver": true,
+    "kakao": true
   },
   "max_pages": 5,
   "output_path": "docs/data/jobs.json"
