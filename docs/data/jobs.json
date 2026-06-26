@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-25T10:29:41",
-  "count": 24,
+  "updated_at": "2026-06-26T04:01:34",
+  "count": 25,
   "jobs": [
     {
       "id": "job_c657f0ce8ccd2a77",
@@ -49,6 +49,14 @@
       "url": "https://careers.lg.com/apply/detail?id=1001841",
       "posted_date": "2026-06-17T13:03:15",
       "end_date": "2026-06-23T23:00:00"
+    },
+    {
+      "id": "job_dc679642cef42589",
+      "company": "네이버",
+      "title": "[NAVER] 경영관리 담당(FP&A) (경력)",
+      "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005036",
+      "posted_date": "2026-06-17T12:00:00",
+      "end_date": "2026-06-30T10:00:00"
     },
     {
       "id": "job_5ac58707595c67c4",
