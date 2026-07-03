@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-07-02T10:19:57",
-  "count": 26,
+  "updated_at": "2026-07-03T10:15:56",
+  "count": 29,
   "jobs": [
+    {
+      "id": "job_8c97fb6da3dca866",
+      "company": "LG",
+      "title": "[LG유플러스] [Consumer부문] 대구소매영업팀 회계/정산 계약직 채용",
+      "url": "https://careers.lg.com/apply/detail?id=1001909",
+      "posted_date": "2026-07-03T10:15:47",
+      "end_date": "2026-07-09T23:00:00"
+    },
+    {
+      "id": "job_9d888baada24e515",
+      "company": "네이버",
+      "title": "[NAVER WEBTOON] [네이버웹툰] 재무회계 (경력)",
+      "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005102",
+      "posted_date": "2026-07-03T10:00:00",
+      "end_date": "2026-07-26T23:59:00"
+    },
+    {
+      "id": "job_dc5135a7604b0eb2",
+      "company": "SK",
+      "title": "[SK oceanplant] [SK오션플랜트] 재무지원 구성원 모집",
+      "url": "https://www.skcareers.com/Recruit/Detail/R261496",
+      "posted_date": "2026-07-03T00:00:00",
+      "end_date": "2026-07-12T23:59:59"
+    },
     {
       "id": "job_78ef5fd6553ce1ff",
       "company": "LG",
