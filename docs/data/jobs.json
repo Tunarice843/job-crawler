@@ -1,7 +1,23 @@
 {
-  "updated_at": "2026-07-06T03:57:57",
-  "count": 29,
+  "updated_at": "2026-07-07T03:49:07",
+  "count": 31,
   "jobs": [
+    {
+      "id": "job_caa820af353346d6",
+      "company": "SK",
+      "title": "[SK siltron] SK실트론 지속경영(ESG) 환경 Part 경력 수시 채용",
+      "url": "https://www.skcareers.com/Recruit/Detail/R261501",
+      "posted_date": "2026-07-07T00:00:00",
+      "end_date": "2026-07-19T23:59:59"
+    },
+    {
+      "id": "job_a160633ba711bbde",
+      "company": "SK",
+      "title": "[SK keyfoundry] SK키파운드리 경영기획 Junior 경력 채용",
+      "url": "https://www.skcareers.com/Recruit/Detail/R261506",
+      "posted_date": "2026-07-06T00:00:00",
+      "end_date": "2026-07-26T23:59:59"
+    },
     {
       "id": "job_8c97fb6da3dca866",
       "company": "LG",
