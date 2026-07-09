@@ -1,12 +1,20 @@
 {
-  "updated_at": "2026-07-08T03:16:12",
-  "count": 31,
+  "updated_at": "2026-07-09T03:40:18",
+  "count": 32,
   "jobs": [
     {
       "id": "job_caa820af353346d6",
       "company": "SK",
       "title": "[SK siltron] SK실트론 지속경영(ESG) 환경 Part 경력 수시 채용",
       "url": "https://www.skcareers.com/Recruit/Detail/R261501",
+      "posted_date": "2026-07-07T00:00:00",
+      "end_date": "2026-07-19T23:59:59"
+    },
+    {
+      "id": "job_6356fe4abba40281",
+      "company": "SK",
+      "title": "[SK oceanplant] [SK오션플랜트] 경영기획 구성원 모집",
+      "url": "https://www.skcareers.com/Recruit/Detail/R261525",
       "posted_date": "2026-07-07T00:00:00",
       "end_date": "2026-07-19T23:59:59"
     },
