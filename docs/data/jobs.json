@@ -1,7 +1,23 @@
 {
-  "updated_at": "2026-07-10T03:42:23",
-  "count": 32,
+  "updated_at": "2026-07-11T02:56:30",
+  "count": 34,
   "jobs": [
+    {
+      "id": "job_30808748cbb45ada",
+      "company": "SK",
+      "title": "[SK signet] 윤리경영 담당(경력)",
+      "url": "https://www.skcareers.com/Recruit/Detail/R261539",
+      "posted_date": "2026-07-10T00:00:00",
+      "end_date": "2026-09-10T23:59:59"
+    },
+    {
+      "id": "job_9d313150392fa8a9",
+      "company": "SK",
+      "title": "[SK signet] 회계/세무 담당(경력)",
+      "url": "https://www.skcareers.com/Recruit/Detail/R261541",
+      "posted_date": "2026-07-10T00:00:00",
+      "end_date": "2026-10-10T23:59:59"
+    },
     {
       "id": "job_caa820af353346d6",
       "company": "SK",
