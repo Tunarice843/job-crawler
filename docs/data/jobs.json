@@ -1,7 +1,23 @@
 {
-  "updated_at": "2026-07-12T03:21:59",
-  "count": 34,
+  "updated_at": "2026-07-13T03:24:53",
+  "count": 36,
   "jobs": [
+    {
+      "id": "job_0b4ef2feda7bd172",
+      "company": "LG",
+      "title": "[LG CNS] 경영지원팀(부동산/사무공간관리) 모집(경력)",
+      "url": "https://careers.lg.com/apply/detail?id=1001604",
+      "posted_date": "2026-07-13T03:24:39",
+      "end_date": "2026-07-17T18:00:00"
+    },
+    {
+      "id": "job_3e33075abf411a72",
+      "company": "한화",
+      "title": "[한화세미텍] 재무 담당 채용 (과~차장급)",
+      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=18750",
+      "posted_date": "2026-07-10T11:00:00",
+      "end_date": "2026-07-31T23:59:00"
+    },
     {
       "id": "job_30808748cbb45ada",
       "company": "SK",
