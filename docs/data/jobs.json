@@ -1,7 +1,23 @@
 {
-  "updated_at": "2026-07-13T03:24:53",
-  "count": 36,
+  "updated_at": "2026-07-14T02:48:05",
+  "count": 38,
   "jobs": [
+    {
+      "id": "job_23c487ad6dda0cd3",
+      "company": "LG",
+      "title": "[LG유플러스] [Consumer부문] 서부소매영업팀 회계/정산 계약직 채용",
+      "url": "https://careers.lg.com/apply/detail?id=1001955",
+      "posted_date": "2026-07-14T02:47:52",
+      "end_date": "2026-07-20T23:00:00"
+    },
+    {
+      "id": "job_6c67bdfbfc2924dc",
+      "company": "한화",
+      "title": "[한화생명] 경영전략실 '금융부문 M&A 및 전략 수립' 전문인력 경력채용",
+      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19221",
+      "posted_date": "2026-07-13T16:00:00",
+      "end_date": "2026-07-29T15:00:00"
+    },
     {
       "id": "job_0b4ef2feda7bd172",
       "company": "LG",
