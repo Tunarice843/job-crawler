@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-07-14T02:48:05",
-  "count": 38,
+  "updated_at": "2026-07-15T02:46:57",
+  "count": 41,
   "jobs": [
+    {
+      "id": "job_678fb2e705804bf8",
+      "company": "LG",
+      "title": "[LG유플러스] [Consumer부문] 경수도매영업팀 회계/정산 계약직 채용",
+      "url": "https://careers.lg.com/apply/detail?id=1001962",
+      "posted_date": "2026-07-15T02:46:28",
+      "end_date": "2026-07-21T23:00:00"
+    },
     {
       "id": "job_23c487ad6dda0cd3",
       "company": "LG",
@@ -27,6 +35,14 @@
       "end_date": "2026-07-17T18:00:00"
     },
     {
+      "id": "job_66c98f8dfa06d3ce",
+      "company": "현대차",
+      "title": "[현대차] [ICT] IT Project Manager - 경영지원시스템",
+      "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=286",
+      "posted_date": "2026-07-13T00:00:00",
+      "end_date": "2026-07-29T23:59:59"
+    },
+    {
       "id": "job_3e33075abf411a72",
       "company": "한화",
       "title": "[한화세미텍] 재무 담당 채용 (과~차장급)",
@@ -49,6 +65,14 @@
       "url": "https://www.skcareers.com/Recruit/Detail/R261541",
       "posted_date": "2026-07-10T00:00:00",
       "end_date": "2026-10-10T23:59:59"
+    },
+    {
+      "id": "job_6dd16dc07fa55881",
+      "company": "현대차",
+      "title": "[현대차] 재경 손익 관리",
+      "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=271",
+      "posted_date": "2026-07-10T00:00:00",
+      "end_date": "2026-07-29T23:59:59"
     },
     {
       "id": "job_caa820af353346d6",
