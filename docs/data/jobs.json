@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-07-16T02:53:19",
-  "count": 41,
+  "updated_at": "2026-07-17T02:55:34",
+  "count": 44,
   "jobs": [
+    {
+      "id": "job_d53e1de00bb3e80a",
+      "company": "LG",
+      "title": "[LG CNS] 경영관리/재경 Staff 모집 (경력)",
+      "url": "https://careers.lg.com/apply/detail?id=1001968",
+      "posted_date": "2026-07-17T02:55:20",
+      "end_date": "2026-07-31T23:00:00"
+    },
+    {
+      "id": "job_898ecb5394707de6",
+      "company": "SK",
+      "title": "[SK bioscience] 원가회계 경력사원 채용",
+      "url": "https://www.skcareers.com/Recruit/Detail/R261575",
+      "posted_date": "2026-07-16T00:00:00",
+      "end_date": "2026-07-22T23:59:59"
+    },
+    {
+      "id": "job_3007f78776eb4cc0",
+      "company": "SK",
+      "title": "[SK bioscience] 원가회계 신입사원 채용",
+      "url": "https://www.skcareers.com/Recruit/Detail/R261595",
+      "posted_date": "2026-07-16T00:00:00",
+      "end_date": "2026-07-22T23:59:59"
+    },
     {
       "id": "job_678fb2e705804bf8",
       "company": "LG",
