@@ -1,7 +1,23 @@
 {
-  "updated_at": "2026-07-20T03:56:00",
-  "count": 44,
+  "updated_at": "2026-07-21T03:13:30",
+  "count": 46,
   "jobs": [
+    {
+      "id": "job_2acde5ac15c98ded",
+      "company": "LG",
+      "title": "[LG경영연구원] 2026년 하반기 RA(Research Assistant) 채용",
+      "url": "https://careers.lg.com/apply/detail?id=1001975",
+      "posted_date": "2026-07-21T03:13:04",
+      "end_date": "2026-08-02T23:00:00"
+    },
+    {
+      "id": "job_2cc1cb31b2a163e1",
+      "company": "LG",
+      "title": "[LG경영연구원] 2026년 하반기 AI 전문 RA(Research Assistant) 채용",
+      "url": "https://careers.lg.com/apply/detail?id=1001976",
+      "posted_date": "2026-07-21T03:13:04",
+      "end_date": "2026-08-02T23:00:00"
+    },
     {
       "id": "job_d53e1de00bb3e80a",
       "company": "LG",
