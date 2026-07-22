@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-07-21T03:13:30",
-  "count": 46,
+  "updated_at": "2026-07-22T02:56:10",
+  "count": 47,
   "jobs": [
+    {
+      "id": "job_d2723abd667c6e28",
+      "company": "삼성",
+      "title": "[제일기획] 경력사원 채용(국내 비즈니스, BX, 경영지원)",
+      "url": "https://www.samsungcareers.com/hr/?no=22722",
+      "posted_date": "2026-07-22T00:00:00",
+      "end_date": "2026-07-29T23:59:59"
+    },
     {
       "id": "job_2acde5ac15c98ded",
       "company": "LG",
