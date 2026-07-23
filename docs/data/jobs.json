@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-22T02:56:10",
-  "count": 47,
+  "updated_at": "2026-07-23T03:18:00",
+  "count": 48,
   "jobs": [
     {
       "id": "job_d2723abd667c6e28",
@@ -9,6 +9,14 @@
       "url": "https://www.samsungcareers.com/hr/?no=22722",
       "posted_date": "2026-07-22T00:00:00",
       "end_date": "2026-07-29T23:59:59"
+    },
+    {
+      "id": "job_18de121ac2ca91f9",
+      "company": "SK",
+      "title": "[SK bioscience] 내부회계 경력사원 채용",
+      "url": "https://www.skcareers.com/Recruit/Detail/R261614",
+      "posted_date": "2026-07-22T00:00:00",
+      "end_date": "2026-07-31T23:59:59"
     },
     {
       "id": "job_2acde5ac15c98ded",
