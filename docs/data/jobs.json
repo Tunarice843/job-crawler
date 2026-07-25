@@ -1,7 +1,23 @@
 {
-  "updated_at": "2026-07-24T02:57:03",
-  "count": 48,
+  "updated_at": "2026-07-25T02:56:26",
+  "count": 50,
   "jobs": [
+    {
+      "id": "job_a13f451b3b208b99",
+      "company": "LG",
+      "title": "[LG CNS] 경영관리/재경 분야 Staff 모집 (경력)",
+      "url": "https://careers.lg.com/apply/detail?id=1001968",
+      "posted_date": "2026-07-25T02:56:13",
+      "end_date": "2026-07-31T23:00:00"
+    },
+    {
+      "id": "job_e2bbfda11942d5a6",
+      "company": "네이버",
+      "title": "[NAVER WEBTOON] [네이버웹툰] 미국세무 담당 (경력)",
+      "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005211",
+      "posted_date": "2026-07-24T10:00:00",
+      "end_date": "2026-08-17T23:59:00"
+    },
     {
       "id": "job_d2723abd667c6e28",
       "company": "삼성",
