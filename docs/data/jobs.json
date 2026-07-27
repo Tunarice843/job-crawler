@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-07-26T03:22:44",
-  "count": 50,
+  "updated_at": "2026-07-27T03:32:35",
+  "count": 51,
   "jobs": [
+    {
+      "id": "job_22b375542ff0a6d1",
+      "company": "SK",
+      "title": "[SK keyfoundry] SK키파운드리 경영기획 신입 채용",
+      "url": "https://www.skcareers.com/Recruit/Detail/R261643",
+      "posted_date": "2026-07-27T00:00:00",
+      "end_date": "2026-08-09T23:59:59"
+    },
     {
       "id": "job_a13f451b3b208b99",
       "company": "LG",
