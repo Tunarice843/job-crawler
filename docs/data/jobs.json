@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-07-30T02:41:05",
-  "count": 52,
+  "updated_at": "2026-07-31T03:22:42",
+  "count": 53,
   "jobs": [
+    {
+      "id": "job_e86a8ecfe9659ebb",
+      "company": "SK",
+      "title": "[SK biopharmaceuticals] 경영지원 인턴 구성원 영입",
+      "url": "https://www.skcareers.com/Recruit/Detail/R261701",
+      "posted_date": "2026-07-31T00:00:00",
+      "end_date": "2026-08-16T23:59:59"
+    },
     {
       "id": "job_18ac7131e4d576d7",
       "company": "한화",
