@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-31T03:22:42",
-  "count": 53,
+  "updated_at": "2026-08-01T03:21:12",
+  "count": 56,
   "jobs": [
     {
       "id": "job_e86a8ecfe9659ebb",
@@ -9,6 +9,30 @@
       "url": "https://www.skcareers.com/Recruit/Detail/R261701",
       "posted_date": "2026-07-31T00:00:00",
       "end_date": "2026-08-16T23:59:59"
+    },
+    {
+      "id": "job_012f4702e8b1d772",
+      "company": "SK",
+      "title": "[IGE] [아이지이] 세무회계 경력 구성원 모집",
+      "url": "https://www.skcareers.com/Recruit/Detail/R261704",
+      "posted_date": "2026-07-31T00:00:00",
+      "end_date": "2026-08-09T23:59:59"
+    },
+    {
+      "id": "job_370c2e479e4d3797",
+      "company": "SK",
+      "title": "[EnSolve Co.,Ltd] [엔솔브] 경영지원(일반) 경력 구성원 채용",
+      "url": "https://www.skcareers.com/Recruit/Detail/R261710",
+      "posted_date": "2026-07-31T00:00:00",
+      "end_date": "2026-08-11T23:59:59"
+    },
+    {
+      "id": "job_4de0935ff3c87dab",
+      "company": "SK",
+      "title": "[SK chemicals(LS)] [SK케미칼] Pharma사업 관리회계 담당자 신입 모집",
+      "url": "https://www.skcareers.com/Recruit/Detail/R261705",
+      "posted_date": "2026-07-31T00:00:00",
+      "end_date": "2026-08-17T23:59:59"
     },
     {
       "id": "job_18ac7131e4d576d7",
