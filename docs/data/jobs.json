@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-08-02T03:21:01",
-  "count": 56,
+  "updated_at": "2026-08-03T03:22:49",
+  "count": 57,
   "jobs": [
+    {
+      "id": "job_ef7674fab1399bb3",
+      "company": "삼성",
+      "title": "[삼성생명] 경력사원 채용(플랫폼, 자산, 기획, 경영지원, CISO)",
+      "url": "https://www.samsungcareers.com/hr/?no=22755",
+      "posted_date": "2026-08-03T00:00:00",
+      "end_date": "2026-08-19T23:59:59"
+    },
     {
       "id": "job_e86a8ecfe9659ebb",
       "company": "SK",
