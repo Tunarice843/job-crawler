@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-08-03T03:22:49",
-  "count": 57,
+  "updated_at": "2026-08-04T02:52:09",
+  "count": 58,
   "jobs": [
+    {
+      "id": "job_eddb4ae9afc4ecc7",
+      "company": "LG",
+      "title": "[LG유플러스] [Consumer부문] 공공모바일영업팀 회계/정산 계약직 채용",
+      "url": "https://careers.lg.com/apply/detail?id=1002028",
+      "posted_date": "2026-08-04T02:51:40",
+      "end_date": "2026-08-09T23:00:00"
+    },
     {
       "id": "job_ef7674fab1399bb3",
       "company": "삼성",
