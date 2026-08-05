@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-08-04T02:52:09",
-  "count": 58,
+  "updated_at": "2026-08-05T02:48:53",
+  "count": 59,
   "jobs": [
+    {
+      "id": "job_3c1e1b1ca1101cce",
+      "company": "LG",
+      "title": "[LG유플러스] [Consumer부문] 충남소매영업팀 회계/정산 계약직 채용",
+      "url": "https://careers.lg.com/apply/detail?id=1002041",
+      "posted_date": "2026-08-05T02:48:42",
+      "end_date": "2026-08-10T23:00:00"
+    },
     {
       "id": "job_eddb4ae9afc4ecc7",
       "company": "LG",
