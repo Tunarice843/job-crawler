@@ -1,7 +1,23 @@
 {
-  "updated_at": "2026-08-09T02:00:38",
-  "count": 59,
+  "updated_at": "2026-08-10T02:04:56",
+  "count": 61,
   "jobs": [
+    {
+      "id": "job_f7da0601b23419b1",
+      "company": "LG",
+      "title": "[LG경영연구원] 2026년 신입연구원 채용(석사/학사)",
+      "url": "https://careers.lg.com/apply/detail?id=1002047",
+      "posted_date": "2026-08-10T02:04:43",
+      "end_date": "2026-09-06T23:00:00"
+    },
+    {
+      "id": "job_652d0055d78dc731",
+      "company": "한화",
+      "title": "[재단법인 한화문화재단] 경영지원(경리∙비서) 담당자 채용",
+      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19435",
+      "posted_date": "2026-08-07T00:00:00",
+      "end_date": "2026-08-20T15:00:00"
+    },
     {
       "id": "job_3c1e1b1ca1101cce",
       "company": "LG",
