@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-10T02:04:56",
-  "count": 61,
+  "updated_at": "2026-08-11T02:00:13",
+  "count": 62,
   "jobs": [
     {
       "id": "job_f7da0601b23419b1",
@@ -9,6 +9,14 @@
       "url": "https://careers.lg.com/apply/detail?id=1002047",
       "posted_date": "2026-08-10T02:04:43",
       "end_date": "2026-09-06T23:00:00"
+    },
+    {
+      "id": "job_f2f81e7abb21926d",
+      "company": "SK",
+      "title": "[Hyverse Corporation] 재무관리 매니저 채용 (경력)",
+      "url": "https://www.skcareers.com/Recruit/Detail/R261755",
+      "posted_date": "2026-08-10T00:00:00",
+      "end_date": "2026-08-21T23:59:59"
     },
     {
       "id": "job_652d0055d78dc731",
