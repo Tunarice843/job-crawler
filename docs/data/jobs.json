@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-08-11T02:00:13",
-  "count": 62,
+  "updated_at": "2026-08-12T02:12:37",
+  "count": 63,
   "jobs": [
+    {
+      "id": "job_53f9222a3f58b64d",
+      "company": "SK",
+      "title": "[SK ons] 2026 회계/전표 및 사무보조 계약직 채용 공고",
+      "url": "https://www.skcareers.com/Recruit/Detail/R261758",
+      "posted_date": "2026-08-11T00:00:00",
+      "end_date": "2026-08-13T23:59:59"
+    },
     {
       "id": "job_f7da0601b23419b1",
       "company": "LG",
