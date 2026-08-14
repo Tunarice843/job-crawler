@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-08-13T02:18:29",
-  "count": 63,
+  "updated_at": "2026-08-14T02:12:52",
+  "count": 67,
   "jobs": [
+    {
+      "id": "job_2adbf33a97a0fc2f",
+      "company": "한화",
+      "title": "(주)한화 전략부문 원가회계(건설원가) 경력직 채용",
+      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19488",
+      "posted_date": "2026-08-14T10:00:00",
+      "end_date": "2026-08-27T23:59:00"
+    },
+    {
+      "id": "job_e904253e5a61dddb",
+      "company": "한화",
+      "title": "(주)한화 전략부문 재무회계 계약직 채용",
+      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19487",
+      "posted_date": "2026-08-14T10:00:00",
+      "end_date": "2026-08-27T23:59:00"
+    },
+    {
+      "id": "job_98932dcefef44f60",
+      "company": "한화",
+      "title": "[한화투자증권] 경영기획팀 경력직 채용",
+      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19486",
+      "posted_date": "2026-08-13T17:00:00",
+      "end_date": "2026-08-26T23:59:00"
+    },
     {
       "id": "job_53f9222a3f58b64d",
       "company": "SK",
@@ -25,6 +49,14 @@
       "url": "https://www.skcareers.com/Recruit/Detail/R261755",
       "posted_date": "2026-08-10T00:00:00",
       "end_date": "2026-08-21T23:59:59"
+    },
+    {
+      "id": "job_89caa2881e60d8b6",
+      "company": "SK",
+      "title": "[SK hyper] 사무 및 경영지원 Staff(계약직) 채용",
+      "url": "https://www.skcareers.com/Recruit/Detail/R261751",
+      "posted_date": "2026-08-10T00:00:00",
+      "end_date": "2026-08-19T23:59:59"
     },
     {
       "id": "job_652d0055d78dc731",
