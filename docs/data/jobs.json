@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-15T01:25:27",
-  "count": 67,
+  "updated_at": "2026-08-16T01:36:29",
+  "count": 68,
   "jobs": [
     {
       "id": "job_2adbf33a97a0fc2f",
@@ -25,6 +25,14 @@
       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19486",
       "posted_date": "2026-08-13T17:00:00",
       "end_date": "2026-08-26T23:59:00"
+    },
+    {
+      "id": "job_fc60de863402b2cf",
+      "company": "한화",
+      "title": "[한화시스템/ICT] SAP CO(관리회계/원가) 운영/개발 경력사원 채용",
+      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19477",
+      "posted_date": "2026-08-13T15:00:00",
+      "end_date": "2026-08-23T23:59:00"
     },
     {
       "id": "job_53f9222a3f58b64d",
