@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-08-19T01:26:03",
-  "count": 68,
+  "updated_at": "2026-08-20T01:25:10",
+  "count": 69,
   "jobs": [
+    {
+      "id": "job_8b0125ac62d8b2ff",
+      "company": "SK",
+      "title": "[D&D Property Solution] 디앤디프라퍼티솔루션 재무Part  구성원 모집의 건",
+      "url": "https://www.skcareers.com/Recruit/Detail/R261816",
+      "posted_date": "2026-08-19T00:00:00",
+      "end_date": "2026-08-26T23:59:59"
+    },
     {
       "id": "job_2adbf33a97a0fc2f",
       "company": "한화",
