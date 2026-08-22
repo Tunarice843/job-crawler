@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-08-21T01:35:43",
-  "count": 69,
+  "updated_at": "2026-08-22T01:24:51",
+  "count": 70,
   "jobs": [
+    {
+      "id": "job_10c119b285e98c41",
+      "company": "LG",
+      "title": "[LG유플러스] [CFO/CRO] 재무회계 담당자 경력채용",
+      "url": "https://careers.lg.com/apply/detail?id=1002100",
+      "posted_date": "2026-08-22T01:24:38",
+      "end_date": "2026-08-30T23:00:00"
+    },
     {
       "id": "job_8b0125ac62d8b2ff",
       "company": "SK",
