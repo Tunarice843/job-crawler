@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-08-27T08:24:23",
-  "count": 70,
+  "updated_at": "2026-08-28T10:25:07",
+  "count": 71,
   "jobs": [
+    {
+      "id": "job_449005ae4938dd9d",
+      "company": "한화",
+      "title": "[한화생명] 재무계리·리스크관리 전문인력 (차장~부장급)",
+      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19642",
+      "posted_date": "2026-08-28T15:00:00",
+      "end_date": "2026-09-11T15:00:00"
+    },
     {
       "id": "job_10c119b285e98c41",
       "company": "LG",
