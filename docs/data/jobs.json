@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-08-30T04:36:22",
-  "count": 71,
+  "updated_at": "2026-08-31T04:40:11",
+  "count": 72,
   "jobs": [
+    {
+      "id": "job_fc839e9117f28645",
+      "company": "SK",
+      "title": "[Narae Energy Service] (O&M) 경영지원실 HR팀 장애인 사원 영입",
+      "url": "https://www.skcareers.com/Recruit/Detail/R261837",
+      "posted_date": "2026-08-31T00:00:00",
+      "end_date": "2026-09-06T23:59:59"
+    },
     {
       "id": "job_449005ae4938dd9d",
       "company": "한화",
