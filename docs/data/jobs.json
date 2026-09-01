@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-08-31T04:40:11",
-  "count": 72,
+  "updated_at": "2026-09-01T04:21:20",
+  "count": 85,
   "jobs": [
+    {
+      "id": "job_0503ffd4542b2ae2",
+      "company": "한화",
+      "title": "[한화솔루션 전략/운영부문] 26년 하반기 한화솔루션 재무 신입사원 채용",
+      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19607",
+      "posted_date": "2026-09-01T00:00:00",
+      "end_date": "2026-09-27T23:00:00"
+    },
     {
       "id": "job_fc839e9117f28645",
       "company": "SK",
@@ -17,6 +25,102 @@
       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19642",
       "posted_date": "2026-08-28T15:00:00",
       "end_date": "2026-09-11T15:00:00"
+    },
+    {
+      "id": "job_dfeac25149305741",
+      "company": "현대차",
+      "title": "[현대차] R&D 기술경영",
+      "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=170",
+      "posted_date": "2026-08-26T00:00:00",
+      "end_date": "2026-09-14T23:59:59"
+    },
+    {
+      "id": "job_f290a4249750cccd",
+      "company": "현대차",
+      "title": "[현대차] R&D 경영지원",
+      "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=171",
+      "posted_date": "2026-08-26T00:00:00",
+      "end_date": "2026-09-14T23:59:59"
+    },
+    {
+      "id": "job_1adec1ea65264f87",
+      "company": "현대차",
+      "title": "[현대차] 재경 (전주공장)",
+      "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=125",
+      "posted_date": "2026-08-25T00:00:00",
+      "end_date": "2026-09-14T23:59:59"
+    },
+    {
+      "id": "job_4a0525651ed73d62",
+      "company": "현대차",
+      "title": "[현대차] 재경 (울산공장)",
+      "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=120",
+      "posted_date": "2026-08-25T00:00:00",
+      "end_date": "2026-09-14T23:59:59"
+    },
+    {
+      "id": "job_3dc1a50f7d36561a",
+      "company": "현대차",
+      "title": "[현대차] 재경 (남양연구소)",
+      "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=122",
+      "posted_date": "2026-08-25T00:00:00",
+      "end_date": "2026-09-14T23:59:59"
+    },
+    {
+      "id": "job_bfc80840a4633ed4",
+      "company": "현대차",
+      "title": "[현대차] 재경",
+      "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=118",
+      "posted_date": "2026-08-25T00:00:00",
+      "end_date": "2026-09-14T23:59:59"
+    },
+    {
+      "id": "job_a018dff48a860e70",
+      "company": "현대차",
+      "title": "[현대차] 국내생산 경영지원 (울산공장)",
+      "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=138",
+      "posted_date": "2026-08-25T00:00:00",
+      "end_date": "2026-09-14T23:59:59"
+    },
+    {
+      "id": "job_b14e959fcddcf956",
+      "company": "현대차",
+      "title": "[현대차] 국내생산 경영지원 (아산공장)",
+      "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=127",
+      "posted_date": "2026-08-25T00:00:00",
+      "end_date": "2026-09-14T23:59:59"
+    },
+    {
+      "id": "job_87e3c5fb094c007a",
+      "company": "현대차",
+      "title": "[현대차] [장애인 신입 특별채용] 재경 (전주공장)",
+      "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=142",
+      "posted_date": "2026-08-25T00:00:00",
+      "end_date": "2026-09-14T23:59:59"
+    },
+    {
+      "id": "job_4862f6a01d779f63",
+      "company": "현대차",
+      "title": "[현대차] 경영전략",
+      "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=96",
+      "posted_date": "2026-08-24T00:00:00",
+      "end_date": "2026-09-14T23:59:59"
+    },
+    {
+      "id": "job_d76b49aaddc845be",
+      "company": "현대차",
+      "title": "[현대차] 경영연구",
+      "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=95",
+      "posted_date": "2026-08-24T00:00:00",
+      "end_date": "2026-09-14T23:59:59"
+    },
+    {
+      "id": "job_7ab9e0ed396654b8",
+      "company": "현대차",
+      "title": "[현대차] [장애인 신입 특별채용] 경영전략",
+      "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=100",
+      "posted_date": "2026-08-24T00:00:00",
+      "end_date": "2026-09-14T23:59:59"
     },
     {
       "id": "job_10c119b285e98c41",
