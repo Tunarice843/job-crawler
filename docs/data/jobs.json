@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-09-01T04:21:20",
-  "count": 85,
+  "updated_at": "2026-09-02T03:44:02",
+  "count": 86,
   "jobs": [
+    {
+      "id": "job_b810ce535b8a9092",
+      "company": "LG",
+      "title": "[LG경영연구원] 노동정책 · 노사관계 연구 및 인사관리 컨설팅",
+      "url": "https://careers.lg.com/apply/detail?id=1002143",
+      "posted_date": "2026-09-02T03:43:51",
+      "end_date": "2026-09-14T23:00:00"
+    },
     {
       "id": "job_0503ffd4542b2ae2",
       "company": "한화",
