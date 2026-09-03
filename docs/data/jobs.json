@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-09-02T03:44:02",
-  "count": 86,
+  "updated_at": "2026-09-03T03:42:35",
+  "count": 87,
   "jobs": [
+    {
+      "id": "job_83ababe94014a214",
+      "company": "LG",
+      "title": "[LG유플러스] [Consumer부문] 수원소매영업팀 회계/정산 계약직 채용",
+      "url": "https://careers.lg.com/apply/detail?id=1002162",
+      "posted_date": "2026-09-03T03:42:20",
+      "end_date": "2026-09-08T23:00:00"
+    },
     {
       "id": "job_b810ce535b8a9092",
       "company": "LG",
