@@ -1,7 +1,23 @@
 {
-  "updated_at": "2026-09-04T03:44:30",
-  "count": 87,
+  "updated_at": "2026-09-05T03:43:28",
+  "count": 89,
   "jobs": [
+    {
+      "id": "job_ed45807abea36158",
+      "company": "한화",
+      "title": "[한화자산운용] 신입/경력직 채용_재무팀",
+      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19687",
+      "posted_date": "2026-09-04T14:30:00",
+      "end_date": "2026-09-18T15:00:00"
+    },
+    {
+      "id": "job_13c0b67d861b9c66",
+      "company": "SK",
+      "title": "[SK chemicals(LS)] 청주공장 회계 계약직 채용 (신입/경력)",
+      "url": "https://www.skcareers.com/Recruit/Detail/R261914",
+      "posted_date": "2026-09-04T00:00:00",
+      "end_date": "2026-09-13T23:59:59"
+    },
     {
       "id": "job_83ababe94014a214",
       "company": "LG",
