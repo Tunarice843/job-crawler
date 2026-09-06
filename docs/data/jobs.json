@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-09-05T03:43:28",
-  "count": 89,
+  "updated_at": "2026-09-06T03:46:25",
+  "count": 90,
   "jobs": [
+    {
+      "id": "job_e47e2bc765b91ef8",
+      "company": "LG",
+      "title": "[LG전자] [ES사업본부] 어플라이드 사업 전략기획 / 경영전략",
+      "url": "https://careers.lg.com/apply/detail?id=1002168",
+      "posted_date": "2026-09-06T03:46:09",
+      "end_date": "2026-09-20T18:00:00"
+    },
     {
       "id": "job_ed45807abea36158",
       "company": "한화",
