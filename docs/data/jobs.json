@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-09-08T03:50:07",
-  "count": 90,
+  "updated_at": "2026-09-09T03:54:47",
+  "count": 91,
   "jobs": [
+    {
+      "id": "job_bf650e9ee334274e",
+      "company": "SK",
+      "title": "[SK telecom] 회계 및 서무 지원 담당자",
+      "url": "https://www.skcareers.com/Recruit/Detail/R261923",
+      "posted_date": "2026-09-08T00:00:00",
+      "end_date": "2026-09-14T23:59:59"
+    },
     {
       "id": "job_e47e2bc765b91ef8",
       "company": "LG",
