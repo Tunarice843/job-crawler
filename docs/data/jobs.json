@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-09-09T03:54:47",
-  "count": 91,
+  "updated_at": "2026-09-10T03:54:14",
+  "count": 94,
   "jobs": [
+    {
+      "id": "job_dc5db6421ba9802b",
+      "company": "한화",
+      "title": "2026 하반기 한화손보 신입사원 채용 - 경영지원",
+      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19699",
+      "posted_date": "2026-09-10T11:00:00",
+      "end_date": "2026-09-28T15:00:00"
+    },
+    {
+      "id": "job_9fefde2fb131d0c9",
+      "company": "LG",
+      "title": "[LG유플러스] [Consumer부문] 금융모바일영업팀 회계/정산 계약직 채용",
+      "url": "https://careers.lg.com/apply/detail?id=1002188",
+      "posted_date": "2026-09-10T03:54:03",
+      "end_date": "2026-09-15T23:00:00"
+    },
+    {
+      "id": "job_42e37af8a06b4f2c",
+      "company": "SK",
+      "title": "[SK biopharmaceuticals] 경영기획 경력 구성원 영입",
+      "url": "https://www.skcareers.com/Recruit/Detail/R261954",
+      "posted_date": "2026-09-09T00:00:00",
+      "end_date": "2026-09-27T23:59:59"
+    },
     {
       "id": "job_bf650e9ee334274e",
       "company": "SK",
