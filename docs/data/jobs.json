@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-10T03:54:14",
-  "count": 94,
+  "updated_at": "2026-09-11T03:50:19",
+  "count": 95,
   "jobs": [
     {
       "id": "job_dc5db6421ba9802b",
@@ -17,6 +17,14 @@
       "url": "https://careers.lg.com/apply/detail?id=1002188",
       "posted_date": "2026-09-10T03:54:03",
       "end_date": "2026-09-15T23:00:00"
+    },
+    {
+      "id": "job_1b13f205c2c9a3ba",
+      "company": "한화",
+      "title": "[한화생명] 사무직 채용(경리, 회계, 사무지원)",
+      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19731",
+      "posted_date": "2026-09-10T00:00:00",
+      "end_date": "2026-09-23T15:00:00"
     },
     {
       "id": "job_42e37af8a06b4f2c",
