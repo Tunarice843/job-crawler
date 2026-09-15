@@ -1,7 +1,55 @@
 {
-  "updated_at": "2026-09-14T04:09:53",
-  "count": 95,
+  "updated_at": "2026-09-15T04:09:03",
+  "count": 101,
   "jobs": [
+    {
+      "id": "job_fdd7b51cbabea29b",
+      "company": "LG",
+      "title": "[LG경영연구원] 정보보안담당(보안기획·거버넌스)  경력 채용",
+      "url": "https://careers.lg.com/apply/detail?id=1002209",
+      "posted_date": "2026-09-15T04:08:51",
+      "end_date": "2026-09-27T23:00:00"
+    },
+    {
+      "id": "job_aef572f7e94adf39",
+      "company": "기아차",
+      "title": "[기아차] [26년 하반기 신입] 경영지원 (AutoLand광명)",
+      "url": "https://career.kia.com/apply/applyView.kc?recuYy=2026&recuType=N1&recuCls=82",
+      "posted_date": "2026-09-15T00:00:00",
+      "end_date": "2026-09-29T23:59:59"
+    },
+    {
+      "id": "job_ffa2ee99cd2375ff",
+      "company": "기아차",
+      "title": "[기아차] [26년 하반기 신입] 경영지원 (AutoLand화성)",
+      "url": "https://career.kia.com/apply/applyView.kc?recuYy=2026&recuType=N1&recuCls=99",
+      "posted_date": "2026-09-15T00:00:00",
+      "end_date": "2026-09-29T23:59:59"
+    },
+    {
+      "id": "job_6787be2c22bbcb13",
+      "company": "기아차",
+      "title": "[기아차] [26년 하반기 신입] 경영지원 (본사)",
+      "url": "https://career.kia.com/apply/applyView.kc?recuYy=2026&recuType=N1&recuCls=97",
+      "posted_date": "2026-09-15T00:00:00",
+      "end_date": "2026-09-29T23:59:59"
+    },
+    {
+      "id": "job_1d30b98d76d520ce",
+      "company": "기아차",
+      "title": "[기아차] [26년 하반기 신입] 국내사업 - 판매/마케팅/상품/경영지원",
+      "url": "https://career.kia.com/apply/applyView.kc?recuYy=2026&recuType=N1&recuCls=90",
+      "posted_date": "2026-09-15T00:00:00",
+      "end_date": "2026-09-29T23:59:59"
+    },
+    {
+      "id": "job_a6aca0d801227109",
+      "company": "기아차",
+      "title": "[기아차] [26년 하반기 신입] 재경",
+      "url": "https://career.kia.com/apply/applyView.kc?recuYy=2026&recuType=N1&recuCls=65",
+      "posted_date": "2026-09-15T00:00:00",
+      "end_date": "2026-09-29T23:59:59"
+    },
     {
       "id": "job_dc5db6421ba9802b",
       "company": "한화",
