@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-15T04:09:03",
-  "count": 101,
+  "updated_at": "2026-09-16T04:05:21",
+  "count": 102,
   "jobs": [
     {
       "id": "job_fdd7b51cbabea29b",
@@ -49,6 +49,14 @@
       "url": "https://career.kia.com/apply/applyView.kc?recuYy=2026&recuType=N1&recuCls=65",
       "posted_date": "2026-09-15T00:00:00",
       "end_date": "2026-09-29T23:59:59"
+    },
+    {
+      "id": "job_4b7d94aee99a2f47",
+      "company": "SK",
+      "title": "[SK plasma] SK플라즈마 재무팀 경력 구성원 채용 건",
+      "url": "https://www.skcareers.com/Recruit/Detail/R261996",
+      "posted_date": "2026-09-15T00:00:00",
+      "end_date": "2026-09-27T23:59:59"
     },
     {
       "id": "job_dc5db6421ba9802b",
