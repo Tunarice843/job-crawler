@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-09-16T04:05:21",
-  "count": 102,
+  "updated_at": "2026-09-17T04:12:20",
+  "count": 103,
   "jobs": [
+    {
+      "id": "job_7526fbd47cd58c88",
+      "company": "삼성",
+      "title": "[제일기획] 경력사원 채용(데이터, 디지털, 경영지원)",
+      "url": "https://www.samsungcareers.com/hr/?no=22861",
+      "posted_date": "2026-09-17T00:00:00",
+      "end_date": "2026-09-23T23:59:59"
+    },
     {
       "id": "job_fdd7b51cbabea29b",
       "company": "LG",
