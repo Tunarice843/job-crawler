@@ -1,7 +1,23 @@
 {
-  "updated_at": "2026-09-18T03:57:15",
-  "count": 104,
+  "updated_at": "2026-09-19T03:54:39",
+  "count": 106,
   "jobs": [
+    {
+      "id": "job_039f84f3ccf4f94b",
+      "company": "SK",
+      "title": "[SK biotek] [경력] SK바이오텍 원가회계∙구분회계 담당자 경력사원 모집",
+      "url": "https://www.skcareers.com/Recruit/Detail/R262031",
+      "posted_date": "2026-09-18T00:00:00",
+      "end_date": "2026-10-05T23:59:59"
+    },
+    {
+      "id": "job_72e0129e8145c536",
+      "company": "SK",
+      "title": "[SK bioscience] Management Accounting(관리회계/경영분석) 경력사원 채용",
+      "url": "https://www.skcareers.com/Recruit/Detail/R262039",
+      "posted_date": "2026-09-18T00:00:00",
+      "end_date": "2026-10-08T23:59:59"
+    },
     {
       "id": "job_7526fbd47cd58c88",
       "company": "삼성",
