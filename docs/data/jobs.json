@@ -1,7 +1,63 @@
 {
-  "updated_at": "2026-09-22T04:05:53",
-  "count": 106,
+  "updated_at": "2026-09-23T04:02:44",
+  "count": 113,
   "jobs": [
+    {
+      "id": "job_632858d1e24d2550",
+      "company": "기아차",
+      "title": "[기아차] [26년 하반기 경력] 경영지원 (AutoLand광명)",
+      "url": "https://career.kia.com/apply/applyView.kc?recuYy=2026&recuType=N2&recuCls=205",
+      "posted_date": "2026-09-23T00:00:00",
+      "end_date": "2026-10-07T23:59:59"
+    },
+    {
+      "id": "job_3986446ec1d88bda",
+      "company": "기아차",
+      "title": "[기아차] [26년 하반기 경력] IT Project Manager - 그룹웨어/경영지원",
+      "url": "https://career.kia.com/apply/applyView.kc?recuYy=2026&recuType=N2&recuCls=204",
+      "posted_date": "2026-09-23T00:00:00",
+      "end_date": "2026-10-07T23:59:59"
+    },
+    {
+      "id": "job_8d700e09fb06768e",
+      "company": "기아차",
+      "title": "[기아차] [26년 하반기 경력] Process Improvement - 관리회계",
+      "url": "https://career.kia.com/apply/applyView.kc?recuYy=2026&recuType=N2&recuCls=203",
+      "posted_date": "2026-09-23T00:00:00",
+      "end_date": "2026-10-07T23:59:59"
+    },
+    {
+      "id": "job_2ef1953662c287f4",
+      "company": "기아차",
+      "title": "[기아차] [26년 하반기 경력] 재무 실적 종합 분석",
+      "url": "https://career.kia.com/apply/applyView.kc?recuYy=2026&recuType=N2&recuCls=196",
+      "posted_date": "2026-09-23T00:00:00",
+      "end_date": "2026-10-07T23:59:59"
+    },
+    {
+      "id": "job_42a09989637d1d18",
+      "company": "기아차",
+      "title": "[기아차] [26년 하반기 경력] 회계",
+      "url": "https://career.kia.com/apply/applyView.kc?recuYy=2026&recuType=N2&recuCls=161",
+      "posted_date": "2026-09-23T00:00:00",
+      "end_date": "2026-10-07T23:59:59"
+    },
+    {
+      "id": "job_fa993969ac9e7a06",
+      "company": "기아차",
+      "title": "[기아차] [26년 하반기 경력] 완성차 사업 경영기획",
+      "url": "https://career.kia.com/apply/applyView.kc?recuYy=2026&recuType=N2&recuCls=213",
+      "posted_date": "2026-09-23T00:00:00",
+      "end_date": "2026-10-07T23:59:59"
+    },
+    {
+      "id": "job_5de064cf783623ed",
+      "company": "기아차",
+      "title": "[기아차] [26년 하반기 경력] 군수차량 제조원가 및 재무프로세스 실무",
+      "url": "https://career.kia.com/apply/applyView.kc?recuYy=2026&recuType=N2&recuCls=221",
+      "posted_date": "2026-09-23T00:00:00",
+      "end_date": "2026-10-07T23:59:59"
+    },
     {
       "id": "job_039f84f3ccf4f94b",
       "company": "SK",
