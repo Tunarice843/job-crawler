@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-09-27T04:32:37",
-  "count": 114,
+  "updated_at": "2026-09-28T04:34:11",
+  "count": 115,
   "jobs": [
+    {
+      "id": "job_883bc0579a98ce3c",
+      "company": "한화",
+      "title": "(주)한화 전략부문 회계(재무회계/원가회계) 경력직 채용",
+      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19870",
+      "posted_date": "2026-09-28T11:00:00",
+      "end_date": "2026-10-11T23:59:00"
+    },
     {
       "id": "job_632858d1e24d2550",
       "company": "기아차",
