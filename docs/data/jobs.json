@@ -1,7 +1,23 @@
 {
-  "updated_at": "2026-10-01T05:01:56",
-  "count": 115,
+  "updated_at": "2026-10-02T04:51:50",
+  "count": 117,
   "jobs": [
+    {
+      "id": "job_1492a7ab07da5bff",
+      "company": "삼성",
+      "title": "[삼성생명] 경력사원 채용(AX/PI, 경영지원, CISO)",
+      "url": "https://www.samsungcareers.com/hr/?no=23284",
+      "posted_date": "2026-10-02T00:00:00",
+      "end_date": "2026-10-12T23:59:59"
+    },
+    {
+      "id": "job_23dfee050a4f82d1",
+      "company": "한화",
+      "title": "[한화시스템/방산] 한화시스템 관리회계 담당 경력사원 채용",
+      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19893",
+      "posted_date": "2026-10-02T00:00:00",
+      "end_date": "2026-10-18T23:59:00"
+    },
     {
       "id": "job_883bc0579a98ce3c",
       "company": "한화",
