@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-10-02T04:51:50",
-  "count": 117,
+  "updated_at": "2026-10-03T04:34:26",
+  "count": 118,
   "jobs": [
+    {
+      "id": "job_8fc0494dcfc2dcfc",
+      "company": "LG",
+      "title": "[D&O] [본사] 재경부문 세무 신입사원 채용",
+      "url": "https://careers.lg.com/apply/detail?id=1002254",
+      "posted_date": "2026-10-03T04:34:12",
+      "end_date": "2026-10-15T17:00:00"
+    },
     {
       "id": "job_1492a7ab07da5bff",
       "company": "삼성",
