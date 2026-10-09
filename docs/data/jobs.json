@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-08T05:19:24",
-  "count": 119,
+  "updated_at": "2026-10-09T05:22:46",
+  "count": 120,
   "jobs": [
     {
       "id": "job_d1df274c3914e55a",
@@ -297,6 +297,14 @@
       "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19642",
       "posted_date": "2026-08-28T15:00:00",
       "end_date": "2026-09-11T15:00:00"
+    },
+    {
+      "id": "job_63f86bdd7f879982",
+      "company": "한화",
+      "title": "[한화오션(주)] [경영지원] 노사관리/운영 경력사원 채용",
+      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19935",
+      "posted_date": "2026-08-28T00:00:00",
+      "end_date": "2026-12-31T23:59:00"
     },
     {
       "id": "job_dfeac25149305741",
