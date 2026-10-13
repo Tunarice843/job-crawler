@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-12T05:10:53",
-  "count": 120,
+  "updated_at": "2026-10-13T06:09:59",
+  "count": 126,
   "jobs": [
     {
       "id": "job_d1df274c3914e55a",
@@ -9,6 +9,22 @@
       "url": "https://careers.lg.com/apply/detail?id=1002271",
       "posted_date": "2026-10-08T05:19:15",
       "end_date": "2026-10-13T23:00:00"
+    },
+    {
+      "id": "job_e24ecba32acf0b1c",
+      "company": "한화",
+      "title": "[한화오션(주)] [경영지원] 인사노무 관리(공인노무사) 경력사원 채용",
+      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19937",
+      "posted_date": "2026-10-07T00:00:00",
+      "end_date": "2026-12-31T23:59:00"
+    },
+    {
+      "id": "job_9daba0c867211cdd",
+      "company": "한화",
+      "title": "[한화오션(주)] [경영지원] 인사행정 지원 사무직 채용",
+      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19936",
+      "posted_date": "2026-10-07T00:00:00",
+      "end_date": "2026-12-31T23:59:00"
     },
     {
       "id": "job_8fc0494dcfc2dcfc",
@@ -961,6 +977,38 @@
       "url": "https://www.skcareers.com/Recruit/Detail/R260951",
       "posted_date": "2026-04-24T00:00:00",
       "end_date": "2026-06-30T23:59:59"
+    },
+    {
+      "id": "job_779b18a56d7d9ef1",
+      "company": "한화",
+      "title": "[한화오션(주)] [경영지원] 정보보호 경력사원 채용",
+      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19956",
+      "posted_date": "2026-01-01T00:00:00",
+      "end_date": "2026-12-31T23:59:00"
+    },
+    {
+      "id": "job_1e85a2caa4e85db2",
+      "company": "한화",
+      "title": "[한화오션(주)] [경영지원] 전략기획 경력사원 채용",
+      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19955",
+      "posted_date": "2026-01-01T00:00:00",
+      "end_date": "2026-12-31T23:59:00"
+    },
+    {
+      "id": "job_bb08b642943c7d4f",
+      "company": "한화",
+      "title": "[한화오션(주)] [경영지원] 국내법무팀장 채용",
+      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19954",
+      "posted_date": "2026-01-01T00:00:00",
+      "end_date": "2026-12-31T23:59:00"
+    },
+    {
+      "id": "job_9fa3776d7f6e2de5",
+      "company": "한화",
+      "title": "[한화오션(주)] [경영지원] 법무(국제변호사) 경력사원 채용",
+      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=19952",
+      "posted_date": "2026-01-01T00:00:00",
+      "end_date": "2026-12-31T23:59:00"
     }
   ]
 }
