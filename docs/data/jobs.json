@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-10-13T06:09:59",
-  "count": 126,
+  "updated_at": "2026-10-14T04:12:39",
+  "count": 127,
   "jobs": [
+    {
+      "id": "job_ed5210a7d5d0d4c7",
+      "company": "SK",
+      "title": "[SK signet] 경영관리(예산·손익관리) 담당자 채용 (경력)",
+      "url": "https://www.skcareers.com/Recruit/Detail/R262231",
+      "posted_date": "2026-10-14T00:00:00",
+      "end_date": "2026-12-14T23:59:59"
+    },
     {
       "id": "job_d1df274c3914e55a",
       "company": "LG",
