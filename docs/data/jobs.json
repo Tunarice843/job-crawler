@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-10-15T03:55:30",
-  "count": 129,
+  "updated_at": "2026-10-16T03:51:47",
+  "count": 132,
   "jobs": [
+    {
+      "id": "job_9f2c4e7630f01de8",
+      "company": "LG",
+      "title": "[LG유플러스] [Consumer부문] 전남소매영업팀 회계/정산 계약직 채용",
+      "url": "https://careers.lg.com/apply/detail?id=1002309",
+      "posted_date": "2026-10-16T03:51:34",
+      "end_date": "2026-10-21T23:00:00"
+    },
+    {
+      "id": "job_cd725102f57cfbe5",
+      "company": "LG",
+      "title": "[LG글로벌전략개발원] [LG경영개발원/글로벌전략개발원]  대외·정책 협력 경력직 채용",
+      "url": "https://careers.lg.com/apply/detail?id=1002310",
+      "posted_date": "2026-10-16T03:51:34",
+      "end_date": "2026-10-28T23:00:00"
+    },
+    {
+      "id": "job_2e085254c545ce0e",
+      "company": "LG",
+      "title": "[비즈테크아이] 경영기획 담당자 모집 (경력)",
+      "url": "https://careers.lg.com/apply/detail?id=1002307",
+      "posted_date": "2026-10-16T03:51:34",
+      "end_date": "2026-12-31T17:00:00"
+    },
     {
       "id": "job_ed5210a7d5d0d4c7",
       "company": "SK",
