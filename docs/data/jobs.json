@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-10-16T03:51:47",
-  "count": 132,
+  "updated_at": "2026-10-17T03:41:29",
+  "count": 135,
   "jobs": [
+    {
+      "id": "job_6277e7108ae6d174",
+      "company": "LG",
+      "title": "[HSAD] 2026년 하반기 회계 신입사원 채용",
+      "url": "https://careers.lg.com/apply/detail?id=1002314",
+      "posted_date": "2026-10-17T03:41:18",
+      "end_date": "2026-11-01T23:00:00"
+    },
+    {
+      "id": "job_4cac4e5d46c5af7c",
+      "company": "네이버",
+      "title": "[NAVER Cloud] 재무기획 및 경영관리 (경력)",
+      "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005589",
+      "posted_date": "2026-10-16T10:00:00",
+      "end_date": "2026-10-25T23:59:00"
+    },
+    {
+      "id": "job_a793aaa806e75bd8",
+      "company": "네이버",
+      "title": "[NAVER Cloud] 회계/세무 담당자 (경력)",
+      "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005588",
+      "posted_date": "2026-10-16T10:00:00",
+      "end_date": "2026-10-25T23:59:00"
+    },
     {
       "id": "job_9f2c4e7630f01de8",
       "company": "LG",
