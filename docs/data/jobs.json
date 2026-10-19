@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-10-18T03:47:43",
-  "count": 135,
+  "updated_at": "2026-10-19T03:57:32",
+  "count": 136,
   "jobs": [
+    {
+      "id": "job_03d68b58c779d8ae",
+      "company": "현대차",
+      "title": "[현대차] [계약직] 경영연구 사무운영보조 (장애인 제한경쟁)",
+      "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=241",
+      "posted_date": "2026-10-19T00:00:00",
+      "end_date": "2026-11-02T23:59:59"
+    },
     {
       "id": "job_6277e7108ae6d174",
       "company": "LG",
