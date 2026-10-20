@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-10-19T03:57:32",
-  "count": 136,
+  "updated_at": "2026-10-20T04:10:02",
+  "count": 138,
   "jobs": [
+    {
+      "id": "job_b42db2975eff2706",
+      "company": "기아차",
+      "title": "[기아차] [26년 하반기 전환형 인턴] 국내사업 - 판매/마케팅/상품/경영지원/서비스기술",
+      "url": "https://career.kia.com/apply/applyView.kc?recuYy=2026&recuType=N3&recuCls=21",
+      "posted_date": "2026-10-23T00:00:00",
+      "end_date": "2026-11-04T23:59:59"
+    },
     {
       "id": "job_03d68b58c779d8ae",
       "company": "현대차",
@@ -73,6 +81,14 @@
       "url": "https://www.skcareers.com/Recruit/Detail/R262246",
       "posted_date": "2026-10-14T00:00:00",
       "end_date": "2026-11-01T23:59:59"
+    },
+    {
+      "id": "job_609ecba1a95d9d41",
+      "company": "SK",
+      "title": "[SK picglobal] SK피아이씨글로벌 회계(세무/재무) 경력사원 채용",
+      "url": "https://www.skcareers.com/Recruit/Detail/R262214",
+      "posted_date": "2026-10-13T00:00:00",
+      "end_date": "2026-11-05T23:59:59"
     },
     {
       "id": "job_d1df274c3914e55a",
