@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-20T04:10:02",
-  "count": 138,
+  "updated_at": "2026-10-21T03:58:09",
+  "count": 140,
   "jobs": [
     {
       "id": "job_b42db2975eff2706",
@@ -9,6 +9,22 @@
       "url": "https://career.kia.com/apply/applyView.kc?recuYy=2026&recuType=N3&recuCls=21",
       "posted_date": "2026-10-23T00:00:00",
       "end_date": "2026-11-04T23:59:59"
+    },
+    {
+      "id": "job_2251eebebfb2a16d",
+      "company": "SK",
+      "title": "[SK eternix] SK이터닉스 세무 담당 경력사원 모집",
+      "url": "https://www.skcareers.com/Recruit/Detail/R262303",
+      "posted_date": "2026-10-21T00:00:00",
+      "end_date": "2026-11-01T23:59:59"
+    },
+    {
+      "id": "job_61613fc78bd84ee9",
+      "company": "SK",
+      "title": "[SK eternix] SK이터닉스 회계 담당 경력사원 모집",
+      "url": "https://www.skcareers.com/Recruit/Detail/R262282",
+      "posted_date": "2026-10-20T00:00:00",
+      "end_date": "2026-11-01T23:59:59"
     },
     {
       "id": "job_03d68b58c779d8ae",
