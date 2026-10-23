@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-22T03:58:43",
-  "count": 140,
+  "updated_at": "2026-10-23T04:01:54",
+  "count": 141,
   "jobs": [
     {
       "id": "job_b42db2975eff2706",
@@ -9,6 +9,14 @@
       "url": "https://career.kia.com/apply/applyView.kc?recuYy=2026&recuType=N3&recuCls=21",
       "posted_date": "2026-10-23T00:00:00",
       "end_date": "2026-11-04T23:59:59"
+    },
+    {
+      "id": "job_8fbdd8458b89e132",
+      "company": "한화",
+      "title": "[한화생명] 경영기획팀 '국내외 CSR 기획 및 운영' 경력채용(대리~과장급)",
+      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20014",
+      "posted_date": "2026-10-22T15:00:00",
+      "end_date": "2026-11-04T15:00:00"
     },
     {
       "id": "job_2251eebebfb2a16d",
