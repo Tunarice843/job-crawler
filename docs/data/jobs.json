@@ -1,7 +1,23 @@
 {
-  "updated_at": "2026-10-27T04:20:51",
-  "count": 141,
+  "updated_at": "2026-10-28T04:51:32",
+  "count": 143,
   "jobs": [
+    {
+      "id": "job_6773b4ff06efde4d",
+      "company": "한화",
+      "title": "[한화솔루션 전략/운영부문] 한화솔루션 재무실 금융팀 경력채용",
+      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20067",
+      "posted_date": "2026-10-27T14:00:00",
+      "end_date": "2026-11-10T10:00:00"
+    },
+    {
+      "id": "job_73a82b5056afce49",
+      "company": "한화",
+      "title": "[한화솔루션 전략/운영부문] 한화솔루션 재무실 세무회계팀 채용",
+      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20068",
+      "posted_date": "2026-10-27T14:00:00",
+      "end_date": "2026-11-10T17:00:00"
+    },
     {
       "id": "job_b42db2975eff2706",
       "company": "기아차",
