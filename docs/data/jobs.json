@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-10-28T04:51:32",
-  "count": 143,
+  "updated_at": "2026-10-29T05:01:40",
+  "count": 144,
   "jobs": [
+    {
+      "id": "job_8e2ff0ea76bf038f",
+      "company": "SK",
+      "title": "[SK keyfoundry] SK키파운드리 경영기획 분야 신입 채용",
+      "url": "https://www.skcareers.com/Recruit/Detail/R262370",
+      "posted_date": "2026-10-29T00:00:00",
+      "end_date": "2026-11-08T23:59:59"
+    },
     {
       "id": "job_6773b4ff06efde4d",
       "company": "한화",
