@@ -1,12 +1,20 @@
 {
-  "updated_at": "2026-10-29T05:01:40",
-  "count": 144,
+  "updated_at": "2026-10-30T05:01:13",
+  "count": 145,
   "jobs": [
     {
       "id": "job_8e2ff0ea76bf038f",
       "company": "SK",
       "title": "[SK keyfoundry] SK키파운드리 경영기획 분야 신입 채용",
       "url": "https://www.skcareers.com/Recruit/Detail/R262370",
+      "posted_date": "2026-10-29T00:00:00",
+      "end_date": "2026-11-08T23:59:59"
+    },
+    {
+      "id": "job_f14964f3d7a4f092",
+      "company": "SK",
+      "title": "[SK plasma] SK플라즈마 관리회계 경력사원 모집",
+      "url": "https://www.skcareers.com/Recruit/Detail/R262389",
       "posted_date": "2026-10-29T00:00:00",
       "end_date": "2026-11-08T23:59:59"
     },
