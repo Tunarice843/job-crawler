@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-11-08T05:17:29",
-  "count": 145,
+  "updated_at": "2026-11-09T05:28:53",
+  "count": 146,
   "jobs": [
+    {
+      "id": "job_b8ffbf214104a566",
+      "company": "한화",
+      "title": "[한화세미텍] 2027년 상반기 경력사원 채용(R&D/QA/재무/구매)",
+      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20137",
+      "posted_date": "2026-11-09T00:00:00",
+      "end_date": "2026-11-22T23:59:00"
+    },
     {
       "id": "job_8e2ff0ea76bf038f",
       "company": "SK",
