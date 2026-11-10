@@ -1,7 +1,23 @@
 {
-  "updated_at": "2026-11-09T05:28:53",
-  "count": 146,
+  "updated_at": "2026-11-10T06:39:44",
+  "count": 148,
   "jobs": [
+    {
+      "id": "job_8199df5366b7a589",
+      "company": "LG",
+      "title": "[LG유플러스] [Consumer부문] 경인도매영업팀 전산/회계지원 및 사무보조 계약직  채용",
+      "url": "https://careers.lg.com/apply/detail?id=1002384",
+      "posted_date": "2026-11-10T06:39:34",
+      "end_date": "2026-11-15T23:00:00"
+    },
+    {
+      "id": "job_4529adad7e7f056b",
+      "company": "SK",
+      "title": "[SK D&D] [SK디앤디] 재무회계 담당 경력직 채용",
+      "url": "https://www.skcareers.com/Recruit/Detail/R262453",
+      "posted_date": "2026-11-10T00:00:00",
+      "end_date": "2026-12-10T23:59:59"
+    },
     {
       "id": "job_b8ffbf214104a566",
       "company": "한화",
