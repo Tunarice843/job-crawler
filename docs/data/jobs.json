@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-11-12T06:30:56",
-  "count": 148,
+  "updated_at": "2026-11-13T05:50:31",
+  "count": 149,
   "jobs": [
+    {
+      "id": "job_48c40c49b7bc0ad5",
+      "company": "삼성",
+      "title": "[삼성화재] 경력사원 채용(AI, IT, 경영기획, 경영지원, 상품/계리, 언더라이팅, 손해사정, 방재연구)",
+      "url": "https://www.samsungcareers.com/hr/?no=23492",
+      "posted_date": "2026-11-13T00:00:00",
+      "end_date": "2026-11-23T23:59:59"
+    },
     {
       "id": "job_8199df5366b7a589",
       "company": "LG",
