@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-15T05:38:45",
-  "count": 149,
+  "updated_at": "2026-11-16T05:38:24",
+  "count": 151,
   "jobs": [
     {
       "id": "job_48c40c49b7bc0ad5",
@@ -9,6 +9,22 @@
       "url": "https://www.samsungcareers.com/hr/?no=23492",
       "posted_date": "2026-11-13T00:00:00",
       "end_date": "2026-11-23T23:59:59"
+    },
+    {
+      "id": "job_b8757f6bdd269618",
+      "company": "현대차",
+      "title": "[현대차] 회계관리",
+      "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=424",
+      "posted_date": "2026-11-12T00:00:00",
+      "end_date": "2026-11-30T23:59:59"
+    },
+    {
+      "id": "job_ba33c0a82546c836",
+      "company": "현대차",
+      "title": "[현대차] 글로벌 경영체계 운영",
+      "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=428",
+      "posted_date": "2026-11-12T00:00:00",
+      "end_date": "2026-11-30T23:59:59"
     },
     {
       "id": "job_8199df5366b7a589",
