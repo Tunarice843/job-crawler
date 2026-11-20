@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-11-19T06:41:11",
-  "count": 153,
+  "updated_at": "2026-11-20T06:29:31",
+  "count": 154,
   "jobs": [
+    {
+      "id": "job_984c7ba6a86724e0",
+      "company": "한화",
+      "title": "[한화자산운용] 경력직 채용_펀드회계팀",
+      "url": "https://www.hanwhain.com/portal/apply/recruit/detail?rtSeq=20231",
+      "posted_date": "2026-11-20T11:10:00",
+      "end_date": "2026-11-30T15:00:00"
+    },
     {
       "id": "job_3df59b3de619ae8e",
       "company": "SK",
