@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-11-24T09:08:18",
-  "count": 154,
+  "updated_at": "2026-11-25T07:44:33",
+  "count": 155,
   "jobs": [
+    {
+      "id": "job_d4430de1d3b330e4",
+      "company": "삼성",
+      "title": "[삼성생명] 경력사원 채용(플랫폼, 자산운용, CPC, 경영지원, CISO)",
+      "url": "https://www.samsungcareers.com/hr/?no=23547",
+      "posted_date": "2026-11-25T00:00:00",
+      "end_date": "2026-12-07T23:59:59"
+    },
     {
       "id": "job_984c7ba6a86724e0",
       "company": "한화",
